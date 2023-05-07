@@ -1,1 +1,1 @@
-This is a text file in cloned project
+This is a text file in cloned project that has been modified
